@@ -437,7 +437,7 @@ const CropYieldPredictor = () => {
       {/* Footer */}
       <div className="mt-8 text-center text-gray-600">
         <p className="text-sm">
-          🌱 Supporting SDG 2: Zero Hunger | Empowering smallholder farmers with AI-driven insights
+          🌱 Supporting SDG TWO: Zero Hunger | Empowering smallholder farmers with AI-driven insights
         </p>
       </div>
     </div>
